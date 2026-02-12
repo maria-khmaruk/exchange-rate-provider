@@ -8,7 +8,7 @@ A REST API service that provides daily currency exchange rates from the Czech Na
 
 - **.NET 10.0** - Latest cross-platform framework
 - **ASP.NET Core** - Web API
-- **FluentValidation** - Request validation
+- **DataAnnotation** - Request validation
 - **Microsoft.Extensions.Http.Resilience** - HTTP resilience (retry, circuit breaker, timeout)
 - **Scalar** - Interactive API documentation
 - **xUnit v3** - Unit testing
